@@ -15,7 +15,7 @@ YOURLS Open Graph is a plugin for YOURLS that adds Open Graph support to your YO
 ## Installation
 
 1. This is just a redirect plugin, so you need to install YOURLS first. See [YOURLS Installation](https://yourls.org/#Install)
-2. Create a database table for the plugin. See sql file
+2. Create a database table for the plugin. See sql files `og_image.sql` and `og_image_url.sql`
 3. Get Yourls API signature. See [YOURLS API Signature](
 4. Configure the plugin by editing the `config.php` file. 
 
